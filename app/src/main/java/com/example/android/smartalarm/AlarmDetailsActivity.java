@@ -25,7 +25,7 @@ import android.widget.TimePicker;
 import android.widget.ToggleButton;
 //import com.example.android.smartalarm.
 //import com.example.android.smartalarm.A
-
+//imports
 import com.google.gson.stream.JsonReader;
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
