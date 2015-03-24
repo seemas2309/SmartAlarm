@@ -30,6 +30,7 @@ public class AlarmScreen extends Activity {
         super.onCreate(savedInstanceState);
 
         //Setup layout
+        //Working
         this.setContentView(R.layout.activity_alarm_screen);
 
         String name = getIntent().getStringExtra(AlarmManagerHelper.NAME);
